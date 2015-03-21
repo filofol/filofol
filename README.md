@@ -1,12 +1,14 @@
-filofol
+FILOFOL ~ Websites driven on the Filesystem.
 =======
 
-FILOFOL, is a File and Folder driven Website's application, based upon the FileSystem.
+FILOFOL, is a Files and Folders driven Website application, which is based upon the FileSystem.
+
+Turn all your Files and Folders into a Website, FILOFOL provides various options, settings and configurations and can be used for practically any Website, as well as multiple Websites which can all use a single FILOFOL installation.
 
 With FILOFOL you can wrap an entire Website around all the Folders and Files inside the root directory.
 
 
-FILOFOL ~ FEATURES
+FEATURES
 =======
 
 + Merges global, lingual, national and local/international files into one specific page/file.
